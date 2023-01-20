@@ -99,7 +99,7 @@ Then run the code.
 
 # OUTPUT:
 
-![output](/output.png)
+![output](./output.png)
 
 # RESULT:
 
